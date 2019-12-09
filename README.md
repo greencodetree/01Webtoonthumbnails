@@ -1,0 +1,2 @@
+# Webtoonthumbnails
+ exracts webtoon thumbnails
